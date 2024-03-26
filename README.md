@@ -1,5 +1,5 @@
 
-<hr>
+
 🚀 Features:
 
 1. User Authentication: Implement JWT-based authentication for secure user signup, login, and logout functionality.
